@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614572385749",
+    "project_id": "imthekan-45f45",
+    "storage_bucket": "imthekan-45f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614572385749:android:6749b1223669fab892095c",
+        "android_client_info": {
+          "package_name": "com.example.imthekan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614572385749-vu37hikf1p04eo57a0nd7d3vqc6dfnn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsz1FvSkidXvCDU8YQHk1sz4uuxxlxv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614572385749-vu37hikf1p04eo57a0nd7d3vqc6dfnn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
